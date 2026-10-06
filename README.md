@@ -8,7 +8,7 @@ A modern, responsive, and lightweight website built for a local hair barbershop.
 * **Single-File Architecture:** Fast-loading and easy to maintain without complex build steps.
 
 ## Live Demo
-Check out the live website here: [Insert your free hosting link, e.g., Netlify or GitHub Pages link]
+Check out the live website here: https://oisinsd.github.io/The_Fade_Cave/
 
 ## 🛠️ Built With
 * HTML5
